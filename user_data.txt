@@ -1,3 +1,9 @@
 batch da30
 
-git status
+class started late
+
+git status :- gives information about current git status
+ 
+git add filename :- add single file to git local memory
+
+git add . :- adds all files to git local memory
